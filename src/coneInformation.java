@@ -88,7 +88,7 @@ public class coneInformation {
 		System.out.println("You know the rules, and so do I");
 		Thread.sleep(2000);
 		System.out.println("A full commitment's what I'm thinking of");
-		Thread.sleep(2000);
+		Thread.sleep(3500);
 		System.out.println("You wouldn't get this from any other guy\n");
 		Thread.sleep(2000);
 		System.out.println("I just wanna tell you how I'm feeling");
